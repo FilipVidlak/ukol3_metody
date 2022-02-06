@@ -1,0 +1,10 @@
+C:\Users\filip\source\repos\ukol3_metody\ukol3_metody\obj\Debug\ukol3_metody.csproj.AssemblyReference.cache
+C:\Users\filip\source\repos\ukol3_metody\ukol3_metody\obj\Debug\ukol3_metody.Form1.resources
+C:\Users\filip\source\repos\ukol3_metody\ukol3_metody\obj\Debug\ukol3_metody.Properties.Resources.resources
+C:\Users\filip\source\repos\ukol3_metody\ukol3_metody\obj\Debug\ukol3_metody.csproj.GenerateResource.cache
+C:\Users\filip\source\repos\ukol3_metody\ukol3_metody\obj\Debug\ukol3_metody.csproj.CoreCompileInputs.cache
+C:\Users\filip\source\repos\ukol3_metody\ukol3_metody\bin\Debug\ukol3_metody.exe.config
+C:\Users\filip\source\repos\ukol3_metody\ukol3_metody\bin\Debug\ukol3_metody.exe
+C:\Users\filip\source\repos\ukol3_metody\ukol3_metody\bin\Debug\ukol3_metody.pdb
+C:\Users\filip\source\repos\ukol3_metody\ukol3_metody\obj\Debug\ukol3_metody.exe
+C:\Users\filip\source\repos\ukol3_metody\ukol3_metody\obj\Debug\ukol3_metody.pdb
